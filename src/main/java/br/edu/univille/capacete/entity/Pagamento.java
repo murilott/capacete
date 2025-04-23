@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @Entity
-public class Categoria {
+public class Pagamento {
     private Long id;
     private String nome;
 }

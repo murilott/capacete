@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @Entity
-public class ItemCarrinho {
+public class Carrinho {
     private Long id;
     private float custoTotal;
     private List<ItemCarrinho> itens;

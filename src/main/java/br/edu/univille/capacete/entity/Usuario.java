@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @Entity
-public class Equipamento {
+public class Usuario {
     private Long id;
     private String nomeCompleto;
     private LocalDateTime dataNascimento;
